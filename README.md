@@ -1,2 +1,2 @@
-# Discord Website Connection
+# Website
 Side project out of boredom
